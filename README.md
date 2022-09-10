@@ -1,1 +1,1 @@
-In csv based project I have defined "adopted user" as a user where i have logged into the product on three seperate days in at least one seven day period, and identified which factors predict future user adoption.
+In this csv based project I have defined "adopted user" as a user where i have logged into the product on three seperate days in at least one seven day period, and identified which factors predict future user adoption.
